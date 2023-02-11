@@ -20,6 +20,8 @@ module.exports = {
         "footer-telegram": "#0088cc",
         "footer-discord": "#7289da",
         "footer-linkedin": "#0077b5",
+        "event-card": "#38474e",
+        "event-time-bg": "#f5f7f7",
       },
       fontFamily: {
         body: ["Nunito Sans", "sans-serif"],
