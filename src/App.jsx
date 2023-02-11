@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 import Map from "./Map";
 import Nav from "./Nav";
 import Search from "./Search";
@@ -10,6 +11,7 @@ function App() {
         <Map />
         <Search />
       </main>
+      <Footer />
     </>
   );
 }

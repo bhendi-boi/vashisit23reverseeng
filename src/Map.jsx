@@ -3,8 +3,8 @@ import React from "react";
 
 const Map = () => {
   return (
-    <Tab.Group className="flex justify-center my-2 font-medium bg-white font-map">
-      <Tab.List className="p-1 mx-auto text-white bg-button-inactive">
+    <Tab.Group className="flex items-center justify-center p-3 font-medium bg-white font-map">
+      <Tab.List className="mx-auto text-white bg-button-inactive">
         <Tab
           className={({ selected }) => {
             return (
