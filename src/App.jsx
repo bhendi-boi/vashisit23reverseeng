@@ -1,10 +1,15 @@
+import Map from "./Map";
 import Nav from "./Nav";
+import Search from "./Search";
 
 function App() {
   return (
     <>
       <Nav />
-      {/* <main className="text-red-400 bg-black">aslkcl</main> */}
+      <main className="min-h-screen bg-bg-body">
+        <Map />
+        <Search />
+      </main>
     </>
   );
 }
