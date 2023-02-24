@@ -22,10 +22,11 @@ module.exports = {
         "footer-linkedin": "#0077b5",
         "event-card": "#38474e",
         "event-time-bg": "#f5f7f7",
+        "project-text": "#5c686d",
       },
       fontFamily: {
         body: ["Nunito Sans", "sans-serif"],
-        map: ["Inter", "sans-serif"],
+        map: ["Montserrat", "sans-serif"],
       },
     },
   },
